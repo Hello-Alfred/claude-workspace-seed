@@ -1,6 +1,6 @@
 # Personal Knowledge System — Starter Template
 
-A seed for building a personal knowledge system with Claude: a private folder of plain-text files that becomes an assistant that actually remembers you — your projects, your tasks, your decisions — across every session.
+This folder of plain-text files gives Claude the structure to actually remember you — your projects, your tasks, your decisions — across every session. It's the seed that can grow into your personal knowledge system.
 
 **This template is Part 2 of a two-part onboarding.** Part 1 is a guide called `getting-started.md` that walks you (in a regular Claude chat) through installing the apps, setting up voice dictation, creating a GitHub account, and copying this template. If someone sent you here without it, ask them for that file first.
 
