@@ -68,7 +68,7 @@ Then, with their confirmation at each step:
 ## Stage 5 — Graduation
 
 1. Tick the last boxes above, then tell the user this wizard has done its job and will now remove itself — its full text stays in git history forever, and the memory note from Stage 4 records that setup completed.
-2. `git rm SETUP.md`, commit everything with a message like "Setup complete — wizard archived to git history", and push.
+2. `git rm SETUP.md getting-started.md` — the Part 1 guide rode in with the template and has also done its job (skip it if it's already gone). Commit everything with a message like "Setup complete — wizard archived to git history", and push.
 3. Close with the three habits that matter from here:
    - **One topic per session, closed cleanly.** When the conversation drifts to something new, Claude will offer to wrap up and start fresh — say yes: the memory note carries the thread, so a new session picks up exactly where the old one left off, with a clear head.
    - **If it matters, get it into a file** — just say "make a note of that."

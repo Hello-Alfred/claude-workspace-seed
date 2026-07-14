@@ -2,7 +2,11 @@
 
 This folder of plain-text files gives Claude the structure to actually remember you — your projects, your tasks, your decisions — across every session. It's the seed that can grow into your personal knowledge system.
 
-**This template is Part 2 of a two-part onboarding.** Part 1 is a guide called `getting-started.md` that walks you (in a regular Claude chat) through installing the apps, setting up voice dictation, creating a GitHub account, and copying this template. If someone sent you here without it, ask them for that file first.
+**This template is Part 2 of a two-part onboarding — and Part 1 ships right here in the repo.** Part 1 is [`getting-started.md`](getting-started.md): a guide you upload to a regular Claude chat, which then walks you through installing the apps, setting up voice dictation, creating a GitHub account, and copying this template.
+
+**New to all of this?** Start with Part 1: open [`getting-started.md`](getting-started.md), download it (the download button at the top of the file view), upload it to a new chat at [claude.ai](https://claude.ai), and say **"let's start."** The guide will bring you back here when it's time.
+
+**Already have Claude installed and know your way around GitHub?** Skip Part 1 and follow the steps below.
 
 ## How to use this template
 
@@ -17,6 +21,7 @@ This folder of plain-text files gives Claude the structure to actually remember 
 |---|---|
 | `CLAUDE.md` | Claude's standing instructions — read at the start of every session. The setup wizard personalizes it to you. |
 | `SETUP.md` | The first-session wizard. Removes itself when setup completes. |
+| `getting-started.md` | Part 1 of the onboarding, kept here so the template is self-contained. Removed along with `SETUP.md` when setup completes. |
 | `Projects/` | One folder per ongoing effort — a context file and a task list each. Ships with a worked example. |
 | `Memory/` | Session memory notes — how work survives between sessions. |
 | `Notes/` | Dated captures: thoughts, decisions, information. |
